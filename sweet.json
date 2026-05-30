@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 9999999999,
-      "filename": "DerpFest-OTA-Test.zip",
-      "id": "REPLACE_WITH_ACTUAL_SHA256",
-      "romtype": "Unofficial",
-      "size": 2097152,
-      "url": "https://sourceforge.net/projects/YOUR_PROJECT/files/DerpFest-OTA-Test.zip/download",
-      "version": "16.0"
+      "datetime": 1780135780,
+      "filename": "DerpFest-v16.2-20260530-sweet-Community-Beta.zip",
+      "id": "200c2331a274ae7f8f1f220870ebd183afc778b256ad750b0a47d2d827c52cf0",
+      "romtype": "Community",
+      "size": 2678814905,
+      "url": "https://sourceforge.net/projects/derpfest-updates/files/DerpFest%2016/Sweet/DerpFest-v16.2-20260530-sweet-Community-Beta.zip/download",
+      "version": "16.2"
     }
   ]
 }
