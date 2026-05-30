@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1780742400,
-      "filename": "DerpFest-16.0-20260530-ice-Unofficial.zip",
-      "id": "SHA256_HERE",
+      "datetime": 9999999999,
+      "filename": "DerpFest-OTA-Test.zip",
+      "id": "REPLACE_WITH_ACTUAL_SHA256",
       "romtype": "Unofficial",
-      "size": 2458765432,
-      "url": "https://sourceforge.net/projects/YOURPROJECT/files/ice/DerpFest-16.0-20260530-ice-Unofficial.zip/download",
+      "size": 2097152,
+      "url": "https://sourceforge.net/projects/YOUR_PROJECT/files/DerpFest-OTA-Test.zip/download",
       "version": "16.0"
     }
   ]
